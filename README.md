@@ -16,3 +16,6 @@ Learing Process
 
 2021-05-07: Build VS Code with living display for practicing
 
+2021-05-18: Finish HTML class on Solo Learn
+![](https://github.com/XuchenSun/Front-end-Learning/blob/main/Daily_Work_Log/html.jpg)
+
