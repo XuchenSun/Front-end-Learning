@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Polygons and Animation</title>
+<style type="text/css">
+canvas {
+    border: 2px solid rgba(47, 15, 77, 0.63);
+}
+
+</style>
+<canvas id="my_Canvas1" width="1400" height="700"></canvas>
+<script type="text/javascript">
+    // define the position value
+    var x_position=200
+    var y_position=200
+    
+    // define the width and height
+    var width=200
+    var height=200
+    
+    //define RGB value
+    var r_color=200
+    var g_color=0
+    var b_color=0
+    var a_color=0.5
+    
+    var canvas = document.getElementById('my_Canvas1');
+    var ctx = canvas.getContext("2d");
+    
+    
+    function draw_rect(){
+        
+        
+        
+     
+        ctx.fillStyle = "rgb(0, 0, 200)";
+        ctx.fillRect(x_position,y_position,width,height)
+    }
+    function move_right(){
+        x_position=x_position+50
+    }
+    
+    
+</script>
+</head>
+<body>
+
+
+
+</body>
+</html>
