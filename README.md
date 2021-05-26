@@ -18,4 +18,5 @@ Learing Process
 
 2021-05-18: Finish HTML class on Solo Learn
 ![](https://github.com/XuchenSun/Front-end-Learning/blob/main/Daily_Work_Log/html.jpg)
-
+2021-05-26: Finish JS class on Solo Learn
+![](https://www.sololearn.com/certificates/course/en/21278848/1024/landscape/png)
