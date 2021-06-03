@@ -24,3 +24,7 @@ Learing Process
 2021-06-02: Finish CSS certificate
 
 ![](https://www.sololearn.com/certificates/course/en/21278848/1024/landscape/png)
+
+2021-06-03:Finish Responsive Web Design certificate
+
+![](![](https://www.sololearn.com/certificates/course/en/21278848/1024/landscape/png))
